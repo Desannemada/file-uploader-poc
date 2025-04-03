@@ -73,7 +73,7 @@ nodemon server.js
 
 - The backend runs on **http://localhost:5050**
 
-### **5️⃣ Start the Frontend**
+### **5️⃣ Start the Frontend (root folder)**
 
 ```sh
 npm start
