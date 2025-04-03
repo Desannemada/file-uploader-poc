@@ -1,4 +1,4 @@
-# Proof of Concept: [Public Directory]
+# Proof of Concept: [File Directory]
 
 ## Overview
 
