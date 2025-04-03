@@ -29,8 +29,8 @@ Follow these simple steps to set up and run the project locally.
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/yourusername/public-directory.git
-cd public-directory
+git clone https://github.com/Desannemada/file-uploader-poc.git
+cd file-uploader-poc
 ```
 
 ---
