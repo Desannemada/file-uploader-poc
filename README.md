@@ -46,7 +46,7 @@ cd server
 npm install
 ```
 
-### **3️⃣ Install Frontend Dependencies**
+### **3️⃣ Install Frontend Dependencies (root folder)**
 
 ```sh
 npm install
