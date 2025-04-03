@@ -1,6 +1,6 @@
-# 📂 Public Directory
+# 📂 File Directory
 
-Welcome to **Public Directory**! 🚀 This is a simple yet powerful file management app that lets you upload, search, download, and delete files with ease. It features a clean and intuitive interface powered by React and a robust Node.js backend.
+Welcome to **File Directory**! This is a simple yet powerful file management app that lets you upload, search, download, and delete files with ease. It features a clean and intuitive interface powered by React and a robust Node.js backend.
 
 ---
 
