@@ -15,12 +15,13 @@ import {
   ListItemIcon,
   ListItemText,
 } from "@mui/material";
-import { FileUpload, InfoOutline } from "@mui/icons-material";
+import { FileUpload, GitHub } from "@mui/icons-material";
 
 const drawerButtons = [
   {
-    title: "More Info",
-    icon: <InfoOutline />,
+    title: "Github",
+    icon: <GitHub />,
+    url: "https://github.com/Desannemada/file-uploader-poc",
   },
 ];
 
@@ -92,7 +93,9 @@ function ResponsiveAppBar() {
           <List>
             {drawerButtons.map((button, index) => (
               <ListItem key={button.title} disablePadding>
-                <ListItemButton>
+                <ListItemButton
+                  onClick={() => window.open(button.url, "_blank")}
+                >
                   <ListItemIcon>{button.icon}</ListItemIcon>
                   <ListItemText primary={button.title} />
                 </ListItemButton>
